@@ -1,7 +1,8 @@
 **2019_R&D_Challenge_AI_Network_Threat_Detection**
 ==========
 ### K-Shield Jr. Avengers Team
-### 와이앤슈 [First Prize]
+## 와이앤슈 [First Prize]
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/Table_Image.jpeg" width="600px" height="450px" ></img><br/>
 ==========
 
 <br>
@@ -10,11 +11,11 @@
   
 <br>
 
-### STEP2. [[예선]](https://github.com/zel0rd/2018_privacy_anonymization_competition/tree/master/1.예선)
+### STEP2. [[예선]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/tree/master/1.예선)
   
 <br>
 
-### STEP3. [[본선]](https://github.com/zel0rd/2018_privacy_anonymization_competition/tree/master/2.본선)
+### STEP3. [[본선]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/tree/master/2.본선)
 
 ----
 
