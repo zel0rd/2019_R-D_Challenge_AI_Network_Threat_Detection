@@ -7,7 +7,7 @@
 
 <br>
   
-### STEP1. [[SUMMARY_LINK]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/Summary.md)
+### STEP1. [[SUMMARY_LINK]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/README.md)
   
 <br>
 
