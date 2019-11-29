@@ -1,22 +1,15 @@
 **2019_R&D_Challenge_AI_Network_Threat_Detection**
 ==========
-### K-Shield Jr. Avengers Team
-## 와이앤슈 [First Prize]  
 
-### STEP1. Definition_Meaning  
+### CASE1. 개미는 뚠뚠
 
-### STEP2. Preprocessing_Data  
-
-### STEP3. Exploratory_Data_Analysis  
-
-### STEP4. Feature_Extraction  
-
-### STEP5. Select_Model  
-
-### STEP6. Predict_Result  
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story1.jpeg" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story2.jpeg" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story3.jpeg" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story4.jpeg" width="400px" height="400px" ></img><br/>
 
 
-## LANGUAGE : Python
+### CASE2. ?
 
 <br>
 
