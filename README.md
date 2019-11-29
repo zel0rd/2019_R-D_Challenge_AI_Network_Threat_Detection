@@ -1,11 +1,7 @@
-# 2019_R-D_Challenge_AI_Network_Threat_Detection
-2019_R-D_Challenge_AI_Network_Threat_Detection
-
-
 **2019_R&D_Challenge_AI_Network_Threat_Detection**
 ==========
 ### K-Shield Jr. Avengers Team
-**와이앤슈 [First Prize]**
+### 와이앤슈 [First Prize]
 ==========
 
 <br>
