@@ -11,7 +11,12 @@
 오늘도~ 열심히~ 일을 하네~
 
 
-### CASE2. ?
+### CASE2. Git 동기화...
+
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story5.png" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story6.png" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story7.png" width="400px" height="400px" ></img><br/>
+
 
 <br>
 
