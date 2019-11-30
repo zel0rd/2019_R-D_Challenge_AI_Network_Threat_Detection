@@ -8,7 +8,7 @@
 <img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story3.png" width="400px" height="400px" ></img><br/>
 <img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story4.png" width="400px" height="400px" ></img><br/>
 
-오늘도~ 열심히 일을 하네~
+오늘도~ 열심히~ 일을 하네~
 
 
 ### CASE2. ?

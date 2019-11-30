@@ -16,12 +16,12 @@
 
 <br>
 
-### STEP3. [[[SUMMARY]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/Summary.md)
+### STEP3. [[SUMMARY]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/Summary.md)
   
 
-### STEP$. [[[OUR_STORY]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/Story.md)
+### STEP4. [[OUR_STORY]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/Story.md)
 
-]----
+-----
 
 <br>
 
