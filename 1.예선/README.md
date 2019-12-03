@@ -3,7 +3,7 @@
 ### K-Shield Jr. Avengers Team
 ## 와이앤슈 [First Prize]
 
-## STEO1. [[예선]]
+## STEP01. [[예선]]
 <br>
 
 
