@@ -13,10 +13,10 @@
 ==========
 ### CASE2. Git 동기화...
 
-<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story5.png" width="400px" height="400px" ></img><br/>
-<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story6.png" width="400px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story5.png" width="800px" height="400px" ></img><br/>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story6.png" width="800px" height="400px" ></img><br/>
 
-<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-06-29%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2011.29.16.png" width="400px" hegiht="400px"> </img>
+<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/스크린샷 2020-06-29 오전 11.33.19.png" width="800px" hegiht="400px"> </img>
 <br />
 
 <img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/Story7.png" width="400px" height="400px" ></img><br/>
