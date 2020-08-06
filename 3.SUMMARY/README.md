@@ -4,8 +4,7 @@
 ## 와이앤슈 [First Prize]  
 
 <!-- <img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/story/dataset.png" width="600px" height="400px" ></img><br/> -->
-<img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/dataset.png
-" width="600px" height="400px" ></img><br/>
+<img src="https://raw.githubusercontent.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/master/References/dataset.png" width="600px" height="400px" ></img><br/>
 
 <img src="https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/References/define.png" width="600px" height="400px" ></img><br/>
 
