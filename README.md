@@ -16,7 +16,7 @@
 
 <br>
 
-### STEP3. [[SUMMARY&]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/3.SUMMARY/README.md)
+### STEP3. [[SUMMARY&시상]](https://github.com/zel0rd/2019_R-D_Challenge_AI_Network_Threat_Detection/blob/master/3.SUMMARY/README.md)
 
 <br>
 
